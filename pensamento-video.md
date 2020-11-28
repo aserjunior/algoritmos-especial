@@ -1,1 +1,2 @@
-Resumo video
+# Resumo video
+O vídeo trata do pensamento computacional, só que diferente do artigo apresentado ele mostra como funciona o pensamento computacional de maneira pratica citando os pilares mais importantes no desenvolvimento do pensamento e exemplificando. Ao final do vídeo é demonstrado como passar todo esse pensamento para o computador, por meio de algoritmos que é a linguagem compreendida pela máquina.
