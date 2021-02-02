@@ -18,6 +18,8 @@ def main():
                 for i in range(len(P)):
                     print(f'par[{i}] = ', P[i])
                     contador_p = 0
+        
+        
         elif (valor + 1) % 2 == 0:
             I[contador_i] = valor
             contador_i += 1
